@@ -11,5 +11,5 @@ Produce/Procure a desired wav file for use. Make sure the wav file is PCM format
 The XNB file format is detailed in the document from microsoft reposted here in this repository. Further improvements to this project can be implemented by referencing the documentation.
 
 # Other useful items
-To convert XNB files to WAV, use this tool: http://www.terrariaonline.com/threads/tool-terraria-xnb-to-wav-sound-converter.86509/
-This tool is actually based on XNBSoundConverter and works exactly the same, but just converts WAV to XNB as opposed to XNB to WAV.
+- To convert XNB files to WAV, use this tool: http://www.terrariaonline.com/threads/tool-terraria-xnb-to-wav-sound-converter.86509/  This tool is actually based on XNBSoundConverter and works exactly the same, but just converts WAV to XNB as opposed to XNB to WAV.
+- To convert audio from any other format to WAV, I suggeest using SoX: http://sox.sourceforge.net/
