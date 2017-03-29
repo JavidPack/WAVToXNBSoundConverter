@@ -1,5 +1,5 @@
 # WAVToXNBSoundConverter
-**Current executable download: [WAVToXNBSoundConverter v0.1](http://bit.ly/WAVToXNBSoundConverter_v_0_point_11)**  
+**Current executable download: [WAVToXNBSoundConverter v0.1](https://github.com/JavidPack/WAVToXNBSoundConverter/releases)**  
 
 Convers WAV files to XNB sound files. A tool for modding XNA games. This tool was made for Terraria modding in mind, since previously the only way to convert sound files to xnb was to install XNA Game Studios and XNA seems to be no longer supported. Support for other applications is assumed to work.
 
